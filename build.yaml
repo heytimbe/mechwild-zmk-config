@@ -18,7 +18,7 @@
 ---
  include:
    - board: pillbug
-    shield: bb40
+     shield: bb40
 #  - board: pillbug
 #    shield: bb65
 #  - board: pillbug
