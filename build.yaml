@@ -19,6 +19,8 @@
 include:
   - board: pillbug
     shield: bb40
+     snippet: studio-rpc-usb-uart
+     cmake-args: -DCONFIG_ZMK_STUDIO=y
 #  - board: pillbug
 #    shield: bb65
 #  - board: pillbug
