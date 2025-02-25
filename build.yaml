@@ -17,8 +17,8 @@
     artifact-name: bb40_studio
 ---
  include:
-  - board: pillbug
-   shield: bb40
+   - board: pillbug
+    shield: bb40
 #  - board: pillbug
 #    shield: bb65
 #  - board: pillbug
