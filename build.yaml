@@ -10,15 +10,15 @@
 
 # ADVANCED:
 # You can use the `cmake-args` property to pass flags to the build command, and `artifact-name` to assign a name to distinguish build outputs from each other:
-  - board: pillbg
+  - board: pillbug
     shield: bb40
     snippet: studio-rpc-usb-uart
     cmake-args: -DCONFIG_ZMK_STUDIO=y
     artifact-name: bb40_studio
 ---
- include:
-   - board: pillbug
-     shield: bb40
+include:
+  - board: pillbug
+    shield: bb40
 #  - board: pillbug
 #    shield: bb65
 #  - board: pillbug
