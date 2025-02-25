@@ -17,8 +17,8 @@
 #    artifact-name: murphpad_studio
 ---
 include:
-#  - board: pillbug
-#    shield: bb40
+  - board: pillbug
+    shield: bb40
 #  - board: pillbug
 #    shield: bb65
 #  - board: pillbug
